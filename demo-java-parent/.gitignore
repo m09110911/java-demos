@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+demo-java-parent.iml
+*/target
+*/compiler.xml
+*/misc.xml
+*/workspace.xml
