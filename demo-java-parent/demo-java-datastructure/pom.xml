@@ -9,15 +9,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>demo-java-pattern</artifactId>
+    <artifactId>demo-java-datastructure</artifactId>
 
- <!--   <build>
-        <plugins>
-            <plugin>
-                <groupId>demo.java</groupId>
-                <artifactId>demo-java-maven-plugin</artifactId>
-                <version>1.0-SNAPSHOT</version>
-            </plugin>
-        </plugins>
-    </build>-->
 </project>
